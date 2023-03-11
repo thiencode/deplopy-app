@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deplopy-app/static/css/main.073c9b0a.css",
-    "main.js": "/deplopy-app/static/js/main.77602de5.js",
-    "static/js/787.efab6413.chunk.js": "/deplopy-app/static/js/787.efab6413.chunk.js",
-    "static/media/logo.svg": "/deplopy-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/deplopy-app/index.html",
-    "main.073c9b0a.css.map": "/deplopy-app/static/css/main.073c9b0a.css.map",
-    "main.77602de5.js.map": "/deplopy-app/static/js/main.77602de5.js.map",
-    "787.efab6413.chunk.js.map": "/deplopy-app/static/js/787.efab6413.chunk.js.map"
+    "main.css": "/deploy-app/static/css/main.073c9b0a.css",
+    "main.js": "/deploy-app/static/js/main.e8a26753.js",
+    "static/js/787.efab6413.chunk.js": "/deploy-app/static/js/787.efab6413.chunk.js",
+    "static/media/logo.svg": "/deploy-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deploy-app/index.html",
+    "main.073c9b0a.css.map": "/deploy-app/static/css/main.073c9b0a.css.map",
+    "main.e8a26753.js.map": "/deploy-app/static/js/main.e8a26753.js.map",
+    "787.efab6413.chunk.js.map": "/deploy-app/static/js/787.efab6413.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.77602de5.js"
+    "static/js/main.e8a26753.js"
   ]
 }
