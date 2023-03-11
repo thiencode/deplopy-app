@@ -1,7 +1,7 @@
 {
   "name": "deploy-app",
   "version": "0.1.0",
-  "homepage": "https://thiencode.github.io/deplopy-app/",
+  "homepage": "https://thiencode.github.io/deploy-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
